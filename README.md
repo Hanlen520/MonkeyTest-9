@@ -1,4 +1,4 @@
 # MonkeyTest
 Monkey Test GUI Tool
 
-![image](https://github.com/tomoya_chen/MonkeyTest/raw/master/screenshots/screenshot.png)
+![image](https://github.com/tomoyachen/MonkeyTest/blob/master/screenshot.png)
