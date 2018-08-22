@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\bin\Debug\Monkey Test.exe.config
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\bin\Debug\Monkey Test.exe
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\bin\Debug\Monkey Test.pdb
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey_Test.Form1.resources
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey_Test.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey Test.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey Test.exe
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey Test.pdb
+C:\Users\Administrator\source\repos\Monkey Test\Monkey Test\obj\Debug\Monkey Test.csprojAssemblyReference.cache
